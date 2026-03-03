@@ -1,6 +1,4 @@
-# QuickPlan
 
-Sistema de reservas inteligente para experiencias enoturísticas en Bodegas Otazu.
 
 ## Descripción
 
